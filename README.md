@@ -1,5 +1,4 @@
-OpenCart E-commerce Platform
-Project Overview
+OpenCart E-commerce Platform:
 This project focuses on evaluating and improving the functionality of the OpenCart e-commerce platform. Key areas include front-end usability, cart operations, checkout processes, and account management.
 
 Responsibilities

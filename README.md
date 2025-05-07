@@ -18,6 +18,7 @@ Functional Requirements Document (.docx)
 Test Cases Sheet (.xlsx)
 
 Bug Report Sheet (.xlsx)
+test execution result sheet(.xlsl)
 
 Tools & Technologies
 OpenCart
